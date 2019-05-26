@@ -1,0 +1,201 @@
+{
+  "question_id": [
+    {
+      "id": "tempsoal1",
+      "question": {
+        "type": "text",
+        "detail": "Ini pertanyaan 1 <# \\pm\\sqrt{a^2 + b^2} #>"
+      },
+      "option": [
+        {
+          "type": "text",
+          "detail": "Ini jawaban A pertanyaan 1 <# \\pm\\sqrt{a^2 + b^2} #>"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban B pertanyaan 1"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban C pertanyaan 1"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban D pertanyaan 1"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban E pertanyaan 1"
+        }
+      ]
+    },
+    {
+      "id": "tempsoal2",
+      "question": {
+        "type": "image",
+        "detail": "https://1.bp.blogspot.com/-T4p2nff65WE/Wh7RkGulpqI/AAAAAAAAAT4/Pd1GKB5I6Zco2-xUEaXRr17PL0gClN3XwCLcBGAs/s1600/contoh%2Bsoal.jpg"
+      },
+      "option": [
+        {
+          "type": "text",
+          "detail": "Ini jawaban A pertanyaan 2"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban B pertanyaan 2"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban C pertanyaan 2"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban D pertanyaan 2"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban E pertanyaan 2"
+        }
+      ]
+    },
+    {
+      "id": "tempsoal3",
+      "question": {
+        "type": "text",
+        "detail": "Ini pertanyaan 3, opsi jawabannya di acak"
+      },
+      "option": [
+        {
+          "type": "text",
+          "detail": "Ini jawaban A pertanyaan 3"
+        },
+        {
+          "type": "image",
+          "detail": "https://idschool.net/wp-content/uploads/2017/07/Keliling-Lingkaran.png"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban C pertanyaan 3"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban D pertanyaan 3"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban E pertanyaan 3"
+        }
+      ]
+    },
+    {
+      "id": "tempsoal4",
+      "question": {
+        "type": "text",
+        "detail": "Ini pertanyaan 4"
+      },
+      "option": [
+        {
+          "type": "text",
+          "detail": "Ini jawaban A pertanyaan 4"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban B pertanyaan 4"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban C pertanyaan 4"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban D pertanyaan 4"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban E pertanyaan 4"
+        }
+      ]
+    },
+    {
+      "id": "tempsoal5",
+      "question": {
+        "type": "text",
+        "detail": "Ini pertanyaan 5"
+      },
+      "option": [
+        {
+          "type": "text",
+          "detail": "Ini jawaban A pertanyaan 5"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban B pertanyaan 5"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban C pertanyaan 5"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban D pertanyaan 5"
+        },
+        {
+          "type": "text",
+          "detail": "Ini jawaban E pertanyaan 5"
+        }
+      ]
+    }
+  ],
+  "session_detail" : [
+    {
+      "id": "qwerty1",
+      "exam_session_id": "sesiujian",
+      "number": 1,
+      "question_id": "soal1",
+      "temp_question_id": "tempsoal1",
+      "option_random": "abcde",
+      "temp_answer": "b",
+      "is_doubt": false
+    },
+    {
+      "id": "qwerty2",
+      "exam_session_id": "sesiujian",
+      "number": 2,
+      "question_id": "soal2",
+      "temp_question_id": "tempsoal2",
+      "option_random": "abcde",
+      "temp_answer": "a",
+      "is_doubt": true
+    },
+    {
+      "id": "qwerty3",
+      "exam_session_id": "sesiujian",
+      "number": 3,
+      "question_id": "soal3",
+      "temp_question_id": "tempsoal3",
+      "option_random": "edcba",
+      "temp_answer": "d",
+      "is_doubt": false
+    },
+    {
+      "id": "qwerty4",
+      "exam_session_id": "sesiujian",
+      "number": 4,
+      "question_id": "soal4",
+      "temp_question_id": "tempsoal4",
+      "option_random": "abcde",
+      "temp_answer": "",
+      "is_doubt": false
+    },
+    {
+      "id": "qwerty5",
+      "exam_session_id": "sesiujian",
+      "number": 5,
+      "question_id": "soal5",
+      "temp_question_id": "tempsoal5",
+      "option_random": "abcde",
+      "temp_answer": "a",
+      "is_doubt": false
+    }
+  ]
+}
