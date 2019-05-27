@@ -197,5 +197,38 @@
       "temp_answer": "a",
       "is_doubt": false
     }
+  ],
+  "session_summary" : [
+      {
+        "id": "qwerty1",
+        "exam_session_id": "sesiujian",
+        "summary" : [
+            {
+                "is_doubt" : false,
+                "temp_answer" : "a"
+            },
+            {
+                "is_doubt" : true,
+                "temp_answer" : "c"
+            },
+            {
+                "is_doubt" : false,
+                "temp_answer" : "a"
+            },
+            {
+                "is_doubt" : false,
+                "temp_answer" : ""
+            },
+            {
+                "is_doubt" : false,
+                "temp_answer" : "a"
+            }
+        ],
+        "summary_number" : {
+            "doubt" : 1,
+            "answered" : 3,
+            "not_answered" : 1
+        }
+      }
   ]
 }
